@@ -1,0 +1,16 @@
+Classe Utilizador:
+PrimeiroNome
+UltimoNome Idade
+Altura
+peso
+
+Calcular IMC();
+DevolverAnoDeNascimento();
+
+1.1-
+pedir ao utilizador as propriedades necessarias
+escrever "O [primNome] [UltNome] nasceu em [anoDeNascimento] e tem um imc de [IMC]"
+
+1.2- fazer o 1.1 com um override do ToString();
+
+1.3- 

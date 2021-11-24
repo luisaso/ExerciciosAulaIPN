@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vvO1QA+ant5xYWdT6Ce8wp027lScTdVoOL533QNIdEu6661eApE9xO1TQZgSu08oF80tIESo4qr8BlFaFRYdLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcspa\\Desktop\\IT_Academy\\Projetos_VS\\Exercicio1_Aulas\\Exercicio1Aulas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcspa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

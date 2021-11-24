@@ -1,0 +1,37 @@
+[
+  {
+    "firstName": "Liam",
+    "lastName": "Oliveira",
+    "age": 20,
+    "height": 1.80,
+    "weight": 80
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Carvalho",
+    "age": 31,
+    "height": 1.78,
+    "weight": 98
+  },
+  {
+    "firstName": "Emma",
+    "lastName": "Pereira",
+    "age": 44,
+    "height": 1.79,
+    "weight": 70
+  },
+  {
+    "firstName": "Charlotte",
+    "lastName": "Nogueira",
+    "age": 27,
+    "height": 1.68,
+    "weight": 72
+  },
+  {
+    "firstName": "Mia",
+    "lastName": "Carvalho",
+    "age": 23,
+    "height": 1.72,
+    "weight": 65
+  }
+]

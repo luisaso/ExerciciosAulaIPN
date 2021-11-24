@@ -1,0 +1,17 @@
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\bin\Debug\net6.0\Exercicio1Aulas.exe
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\bin\Debug\net6.0\Exercicio1Aulas.deps.json
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\bin\Debug\net6.0\Exercicio1Aulas.runtimeconfig.json
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\bin\Debug\net6.0\Exercicio1Aulas.dll
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\bin\Debug\net6.0\ref\Exercicio1Aulas.dll
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\bin\Debug\net6.0\Exercicio1Aulas.pdb
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.csproj.AssemblyReference.cache
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.AssemblyInfoInputs.cache
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.AssemblyInfo.cs
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.csproj.CoreCompileInputs.cache
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.dll
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\ref\Exercicio1Aulas.dll
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.pdb
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.genruntimeconfig.cache
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lcspa\Desktop\IT_Academy\Projetos_VS\Exercicio1_Aulas\obj\Debug\net6.0\Exercicio1Aulas.csproj.CopyComplete

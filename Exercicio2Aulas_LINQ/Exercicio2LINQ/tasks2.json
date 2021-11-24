@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Review tech architecture",
+        "assignedTo": 1,
+        "dueDate": "26-11-2021"
+    },
+    {
+        "id": 2,
+        "title": "Review tech architecture",
+        "assignedTo": 5,
+        "dueDate": "26-11-2021"
+    },
+    {
+        "id": 3,
+        "title": "Review tech budget",
+        "assignedTo": 1,
+        "dueDate": "30-11-2021"
+    },
+    {
+        "id": 4,
+        "title": "Review IDE license",
+        "assignedTo": 5,
+        "dueDate": "10-12-2021"
+    },
+    {
+        "id": 5,
+        "title": "Schedule board meeting",
+        "assignedTo": 4,
+        "dueDate": "02-12-2021"
+    },
+    {
+        "id": 6,
+        "title": "Request every department report",
+        "assignedTo": 4,
+        "dueDate": "16-12-2021"
+    },
+    {
+        "id": 7,
+        "title": "Review budgets & financial plan",
+        "assignedTo": 3,
+        "dueDate": "06-12-2021"
+    },
+    {
+        "id": 8,
+        "title": "Draw plan to run away with the money",
+        "assignedTo": 3,
+        "dueDate": "24-12-2021"
+    },
+    {
+        "id": 9,
+        "title": "Get requirements",
+        "assignedTo": 2,
+        "dueDate": "23-11-2021"
+    },
+    {
+        "id": 10,
+        "title": "Present project to the board",
+        "assignedTo": 2,
+        "dueDate": "24-11-2021"
+    }
+]

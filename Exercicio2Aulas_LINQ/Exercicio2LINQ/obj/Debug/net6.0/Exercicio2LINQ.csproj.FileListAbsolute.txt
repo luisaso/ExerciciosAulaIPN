@@ -1,0 +1,17 @@
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.csproj.AssemblyReference.cache
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.AssemblyInfoInputs.cache
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.AssemblyInfo.cs
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.csproj.CoreCompileInputs.cache
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\Exercicio2LINQ.exe
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\Exercicio2LINQ.deps.json
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\Exercicio2LINQ.runtimeconfig.json
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\Exercicio2LINQ.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\ref\Exercicio2LINQ.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\Exercicio2LINQ.pdb
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\ref\Exercicio2LINQ.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.pdb
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.genruntimeconfig.cache
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.csproj.CopyComplete
