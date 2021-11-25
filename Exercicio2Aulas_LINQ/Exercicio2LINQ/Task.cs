@@ -1,7 +1,8 @@
 ﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
 using System.Text;
 
-namespace MyNamespace
+namespace Exercicio2LINQ
 {
     public class Task
     {
@@ -11,7 +12,7 @@ namespace MyNamespace
 
         public static List<Task> ReadJSON()
         {
-            string fileName = @"C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\tasks.json";
+            string fileName = @"tasks.json";
             //StringBuilder jsonString = new(File.ReadAllText(fileName));
             string jsonString = File.ReadAllText(fileName);
 
@@ -21,28 +22,29 @@ namespace MyNamespace
 
         public override string ToString()
         {
-            string output = $"- {Title}";
+            string output = $"\t- {Title}";
             return output;
         }
     }
 
     public class TaskWithDate : Task
     {
-        public DateTime Date { get; set; }
+        public DateTime DueDate { get; set; }
 
         public static List<TaskWithDate> ReadJSONWithDate()
         {
-            string fileName = @"C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\tasks2.json";
+            string fileName = @"tasks2.json";
             string jsonString = File.ReadAllText(fileName);
 
-            var rawTasks = JsonConvert.DeserializeObject<List<TaskWithDate>>(jsonString);
-            var tasks = new List<TaskWithDate>();
-            foreach (var task in rawTasks)
-            {
-                
-            }
-            return tasks;
+            var rawTasks = JsonConvert.DeserializeObject<List<TaskWithDate>>(jsonString, new IsoDateTimeConverter { DateTimeFormat = "dd-MM-yyyy" });
+
+            return rawTasks;
         }
-        public Date
+        public DateTime ConvertDateFromString(string date)
+        {
+            DateTime myDate = DateTime.ParseExact(date, "dd-MM-yyyy", System.Globalization.CultureInfo.InvariantCulture);
+            return myDate;
+        }
     }
 }
+

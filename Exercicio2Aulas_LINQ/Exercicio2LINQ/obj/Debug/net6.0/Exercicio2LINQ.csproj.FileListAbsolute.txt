@@ -15,3 +15,6 @@ C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2
 C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.genruntimeconfig.cache
 C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\obj\Debug\net6.0\Exercicio2LINQ.csproj.CopyComplete
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\users2.json
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\tasks.json
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\bin\Debug\net6.0\tasks2.json

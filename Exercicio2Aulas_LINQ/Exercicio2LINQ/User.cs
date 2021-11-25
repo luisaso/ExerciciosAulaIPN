@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System.Text;
 
-namespace MyNamespace
+namespace Exercicio2LINQ
 {
     public class User
     {
@@ -12,7 +12,7 @@ namespace MyNamespace
 
         public static List<User> ReadJSON()
         {
-            string fileName = @"C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio2Aulas_LINQ\Exercicio2LINQ\users2.json";
+            string fileName = @"users2.json";
             //StringBuilder jsonString = new(File.ReadAllText(fileName));
             string jsonString = File.ReadAllText(fileName);
 
@@ -21,7 +21,7 @@ namespace MyNamespace
         }
         public override string ToString()
         {
-            string output = $"{FirstName} {LastName} - {Role}";
+            string output = $"\n{FirstName} {LastName} - {Role}";
             return output;
         }
     }
