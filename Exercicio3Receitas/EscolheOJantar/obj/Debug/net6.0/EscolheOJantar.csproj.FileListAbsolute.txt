@@ -1,0 +1,36 @@
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.exe
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.deps.json
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.runtimeconfig.json
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.dll
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\ref\EscolheOJantar.dll
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.pdb
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.csproj.AssemblyReference.cache
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.AssemblyInfoInputs.cache
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.AssemblyInfo.cs
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.csproj.CoreCompileInputs.cache
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.dll
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\ref\EscolheOJantar.dll
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.pdb
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.genruntimeconfig.cache
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\recipes.json
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lcspa\Desktop\Curso IPN\C#\ExerciciosAulas\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.csproj.CopyComplete
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.exe
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\recipes.json
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.deps.json
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.runtimeconfig.json
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\ref\EscolheOJantar.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\EscolheOJantar.pdb
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.csproj.AssemblyReference.cache
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.AssemblyInfoInputs.cache
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.AssemblyInfo.cs
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.csproj.CoreCompileInputs.cache
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.csproj.CopyComplete
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\ref\EscolheOJantar.dll
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.pdb
+C:\Users\lcspa\Desktop\IT_Academy\Exercicio_aula\Exercicio3Receitas\EscolheOJantar\obj\Debug\net6.0\EscolheOJantar.genruntimeconfig.cache

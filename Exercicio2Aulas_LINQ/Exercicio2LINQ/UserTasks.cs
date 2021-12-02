@@ -3,7 +3,7 @@
     public class UserTasks
     {
         public User User { get; set; }
-        public IEnumerable<Task> TaskList { get; set; }
+        public List<Task> TaskList { get; set; }
 
         public override string ToString()
         {

@@ -69,7 +69,7 @@
             //    foreach (var task in taskList)
             //    {
             //        Console.WriteLine(task.ToString());
-            //    }
+            //    } var qualquer = new UserTasks();
             //}
             var query = users.GroupJoin(
                 tasks,
